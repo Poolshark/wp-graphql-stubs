@@ -1,0 +1,16 @@
+{
+  "name": "poolshark/wp-graphql-stubs",
+  "description": "WP GraphQL Stubs for VS Code and others.",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Flo Ragossnig",
+      "email": "florian@webleaders.at"
+    }
+  ],
+  "minimum-stability": "dev"
+}
